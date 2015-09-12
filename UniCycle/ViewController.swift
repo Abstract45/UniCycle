@@ -47,7 +47,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, MKMapViewDele
 //                             println(bikeShare["latitude"])
 //                             println(bikeShare["longitude"])
 //                             println(bikeShare["stationName"])
-//                        
+//                    
 //                    }
 //                }
 //            }
